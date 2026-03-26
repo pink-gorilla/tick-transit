@@ -1,4 +1,4 @@
-{:extension/name :tick-addon
+{:extension/name :tick-addon-sci
  ; build
  :cljs/module :main
  :cljs/when-defined :sci

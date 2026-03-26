@@ -1,5 +1,5 @@
-{:extension/name :tick
- ; build
+{:extension/name :tick-sci 
+; build
  :cljs/module :main
  :cljs/when-defined :sci
  :cljs/namespace [tick.core

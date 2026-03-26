@@ -3,3 +3,4 @@
 - sci namespace for tick.core
 - transit encoding for tick types
 - tick instant editor
+- works with shadow-x or normal cljs projects

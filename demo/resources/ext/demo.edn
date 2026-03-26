@@ -1,0 +1,6 @@
+{:name "demo"
+ :lazy true ; must be true 
+ :cljs-namespace [demo.page.tick]
+ 
+ :cljs-ns-bindings {'demo.page.tick {'page demo.page.tick/page}}
+ :cljs-routes  {"" demo.page.tick/page}}
